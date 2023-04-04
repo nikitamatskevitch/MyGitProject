@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyGitProject</string>
+    <string name="error_input_count">Incorrect input</string>
+    <string name="error_input_name">Incorrect input</string>
 </resources>
